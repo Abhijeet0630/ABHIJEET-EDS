@@ -1,0 +1,33 @@
+Captain of the Team.
+
+
+
+a=list(map(int,input().split(" ")))
+
+print(max(a)
+
+Linear search Technique.
+
+
+
+
+
+a=list(map(int,input().split(" ")))
+
+b=int(input())
+
+
+
+for i in range(len(a)):
+
+	if a[i]==b:
+
+		print(i)
+
+		break
+
+
+
+if a[i]!=b:
+
+	print("Not found")
